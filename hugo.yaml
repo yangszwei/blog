@@ -1,4 +1,4 @@
-baseURL: "https://blog.yangszwei.com/"
+baseURL: "https://blog.siweiyang.com/"
 languageCode: "zh-tw"
 title: "Si-Wei's Blog"
 paginate: 5
@@ -55,7 +55,7 @@ params:
 
   socialIcons:
     - name: twitter
-      url: "https://twitter.com/yangszwei"
+      url: "https://twitter.com/siweiyang35"
     - name: stackoverflow
       url: "https://stackoverflow.com/users/14491377/si-wei-yang"
     - name: github
@@ -90,5 +90,5 @@ menu:
       weight: 40
     - identifier: home
       name: 首頁
-      url: https://yangszwei.com/
+      url: https://siweiyang.com/
       weight: 50
