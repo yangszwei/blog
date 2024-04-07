@@ -54,12 +54,14 @@ params:
     Content: 歡迎來到我的部落格。
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/siweiyang35"
-    - name: stackoverflow
-      url: "https://stackoverflow.com/users/14491377/si-wei-yang"
     - name: github
       url: "https://github.com/yangszwei"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/siweiyang02/"
+    - name: stackoverflow
+      url: "https://stackoverflow.com/users/14491377/si-wei-yang"
+    - name: applemusic
+      url: "https://music.apple.com/profile/siweiyang"
 
   fuseOpts:
     isCaseSensitive: false
